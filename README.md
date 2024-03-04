@@ -1,2 +1,3 @@
-# Branch-and-bound---knapsack
+# Branch-and-bound-knapsack
 Solving knapsack problem using branch and bound algorithm
+in python
